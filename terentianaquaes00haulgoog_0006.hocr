@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./terentianaquaes00haulgoog_0006.png"; bbox 0 0 1079 1615; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 381 366 707 412">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 381 366 707 412">
+     <span class='ocr_line' id='line_1_1' title="bbox 381 366 707 412; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 381 366 707 412; x_wconf 78' lang='lat' dir='ltr'><strong>TERENTIANA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 195 507 889 560">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 195 507 889 560">
+     <span class='ocr_line' id='line_1_2' title="bbox 195 507 889 560; baseline 0 -11"><span class='ocrx_word' id='word_1_2' title='bbox 195 517 429 560; x_wconf 82' lang='lat' dir='ltr'><strong>QUAESTIONES</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 456 517 528 549; x_wconf 85' lang='lat' dir='ltr'><strong>OUM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 556 507 889 550; x_wconf 14' lang='lat' dir='ltr'>SPECIMINEVLEXICI.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 513 811 575 823">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 513 811 575 823">
+     <span class='ocr_line' id='line_1_3' title="bbox 513 811 575 823; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 513 811 575 823; x_wconf 64' lang='lat' dir='ltr'><strong>lllllll</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 305 884 777 920">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 305 884 777 920">
+     <span class='ocr_line' id='line_1_4' title="bbox 305 884 777 920; baseline 0 -10"><span class='ocrx_word' id='word_1_6' title='bbox 305 884 344 910; x_wconf 66' lang='lat' dir='ltr'><strong>DR</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 362 884 580 910; x_wconf 77' lang='lat' dir='ltr'><strong>EDMUNDUS</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 607 884 777 920; x_wconf 54' lang='lat' dir='ltr'><strong>{AULER</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 470 1309 609 1330">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 434 1303 609 1336">
+     <span class='ocr_line' id='line_1_5' title="bbox 470 1309 609 1330; baseline -0.006 -0.206"><span class='ocrx_word' id='word_1_9' title='bbox 470 1309 609 1330; x_wconf 63' lang='lat' dir='ltr'>VINDOBONAE,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 374 1346 710 1362">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 374 1346 710 1362">
+     <span class='ocr_line' id='line_1_6' title="bbox 374 1346 710 1362; baseline -0.009 0"><span class='ocrx_word' id='word_1_10' title='bbox 374 1349 441 1362; x_wconf 77' lang='lat' dir='ltr'><strong>APUD</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 459 1348 528 1361; x_wconf 68' lang='lat' dir='ltr'>ALFR,</span> <span class='ocrx_word' id='word_1_12' title='bbox 546 1348 632 1361; x_wconf 78' lang='lat' dir='ltr'>HOELD</span> <span class='ocrx_word' id='word_1_13' title='bbox 639 1346 710 1360; x_wconf 79' lang='lat' dir='ltr'>EEEEE</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
